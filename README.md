@@ -1,8 +1,12 @@
-# ZJUWLAN 一键登录
+# ZJUWLAN 自动登录 （Engilsh Version in the following）
 
->  由于最（一）近（直）校园网有线网网络频繁，开始转向无线网日常使用和开发，所以想要一个一键登陆的脚本，看了很多github上已有的仓库，都比较复杂（当然也是更全面更周到啦），想要一个简单的zjuwlan登录脚本，遂建了这个仓库，希望能够帮到大家。
+>  由于最（一）近（直）校园网有线网网络频繁波动，我开始转向无线网日常使用和开发，所以想要一个自动登陆的脚本，看了很多github上已有的仓库，都比较复杂（当然也是更全面更周到啦），想要一个简单的zjuwlan登录脚本，遂建了这个仓库，希望能够帮到大家:)
 
+这个 repo 的目的很简单——让我们向
 
+![1556537115516](C:\Users\jimmy\AppData\Roaming\Typora\typora-user-images\1556537115516.png)
+
+说再见吧！
 
 ## 使用帮助
 
@@ -83,3 +87,8 @@ curl  -d  "action=login&username=YOURID&password=YOURPASSWORD&ac_id=3&user_ip=&n
 
 # 五一快乐！ 玩得开心！
 
+# ZJUWLAN auto-login
+
+> Due to the frequent crash of  ZJU’s wired network recently(always),  I started to turn to the wireless network for daily use and development. So I am in need of an auto login script. I have seen many existing repos on GitHub, many of which are too complicated (and of course more comprehensive and thoughtful). So here is a super simple zjuwlan login script, hoping to help you:)
+
+The purpose of this repo is simple - let’s 
