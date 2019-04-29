@@ -4,7 +4,7 @@
 
 这个 repo 的目的很简单——让我们向
 
-![](/img/zjuwlan.png)
+![](/img/zjuwlan.webp)
 
 **说再见吧！**
 
@@ -95,7 +95,7 @@ curl  -d  "action=login&username=YOURID&password=YOURPASSWORD&ac_id=3&user_ip=&n
 
 The purpose of this repo is simple - **Let’s say GOODBYE to**
 
-![](/img/zjuwlan.png)
+![](/img/zjuwlan.webp)
 
 ## Usage
 
