@@ -1,10 +1,12 @@
 # ZJUWLAN 自动登录 （Engilsh Version in the following）
 
+文章更新到了[我的博客](https://qsctech-sange.github.io/ZJUWLAN-login.html)，里面还有好多好玩的东东，一起来康康吧！
+
 >  由于最（一）近（直）校园网有线网网络频繁波动，我开始转向无线网日常使用和开发，所以想要一个自动登陆的脚本，看了很多github上已有的仓库，都比较复杂（当然也是更全面更周到啦），想要一个简单的zjuwlan登录脚本，遂建了这个仓库，希望能够帮到大家:)
 
 这个 repo 的目的很简单——让我们向
 
-![](/img/zjuwlan.webp)
+![ZJUWLAN](http://pwb80dtf4.bkt.clouddn.com/zjuwlan.webp)
 
 **说再见吧！**
 
