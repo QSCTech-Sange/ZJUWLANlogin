@@ -1,3 +1,7 @@
+# 由于 ZJUWLAN 已经升级，此方法失效
+# 由于 ZJUWLAN 已经升级，此方法失效
+# 由于 ZJUWLAN 已经升级，此方法失效
+
 # ZJUWLAN 自动登录 （Engilsh Version in the following）
 
 文章更新到了[我的博客](https://qsctech-sange.github.io/ZJUWLAN-login.html)，里面还有好多好玩的东东，一起来康康吧！
